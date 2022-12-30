@@ -461,7 +461,7 @@ Terminado, precisamos incluir uma *chave: valor* na configuração
 Colocaremos essa informação no *package.json*  
 Como primeira *chave: valor* no arquivo colocaremos  
 ```bash
-"homepage": "url-repositorio-web",
+"homepage": "https://username.github.io/repositorio",
 ```
 Mais à frente teremos a chave *"scripts"* que é um objeto  
 Também com valores do tipo *"chave: valor"*  
