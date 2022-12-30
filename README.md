@@ -477,6 +477,10 @@ Por fim, execute o comando abaixo para fazer o *deploy* do projeto
 npm run deploy
 ```
 Com isso criamos o projeto pronto pro deploy e o enviamos pra web  
+> PS: Foi preciso configurar no GitHub o GitHub Pages  
+> Temos que definir o "*Buil and Deployment*" como "Deploy from a branch"  
+> E em branch escolher o *gh-pages* da pasta *"/root"*  
+> 
 Com o deploy feito, basta copiar o endereço do projeto no navegador  
 Voltar ao site do FreeCodeCamp e colar no local para efetuar o teste  
 
