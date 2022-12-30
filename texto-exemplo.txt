@@ -1,0 +1,3 @@
+{"textos":
+[{"texto": "Este é um texto que serve apenas como exemplo teste para leitura de arquivo pelo JavaScript."},
+{"texto": "Queremos apenas recuperar este texto para apresentar o resultado na página."}]}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-frontend-quote-machine/static/css/main.69117628.css",
+    "main.js": "/fcc-frontend-quote-machine/static/js/main.6b973db8.js",
+    "static/js/787.87c8eaef.chunk.js": "/fcc-frontend-quote-machine/static/js/787.87c8eaef.chunk.js",
+    "index.html": "/fcc-frontend-quote-machine/index.html",
+    "main.69117628.css.map": "/fcc-frontend-quote-machine/static/css/main.69117628.css.map",
+    "main.6b973db8.js.map": "/fcc-frontend-quote-machine/static/js/main.6b973db8.js.map",
+    "787.87c8eaef.chunk.js.map": "/fcc-frontend-quote-machine/static/js/787.87c8eaef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69117628.css",
+    "static/js/main.6b973db8.js"
+  ]
+}
