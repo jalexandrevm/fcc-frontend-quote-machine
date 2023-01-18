@@ -1,5 +1,6 @@
 # Desafio Front-End do FreeCodeCamp - Máquina de Citação
 
+Projeto encontra-se aqui: [Máquina de Citação](https://jalexandrevm.github.io/fcc-frontend-quote-machine/)  
 Vamos começar nosso projeto Front-End pro FreeCodeCamp  
 Criaremos uma máquina de citações aleatórias  
 Conhecimento demonstrado:
